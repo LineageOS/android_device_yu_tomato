@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_a8be10d2",
+        "filename": "overlay/frameworks/base/core/res/res/xml/storage_list.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-06T09:44:56Z",
+      "side": 1,
+      "message": "Nothing uses this?",
+      "revId": "21188b42f383a3ab5f4653372a0602b588708542",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
