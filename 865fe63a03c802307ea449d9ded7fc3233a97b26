@@ -52,6 +52,24 @@
       "revId": "865fe63a03c802307ea449d9ded7fc3233a97b26",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_7277b2d4",
+        "filename": "cmhw/src/org/cyanogenmod/hardware/TapToWake.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-06-06T08:52:07Z",
+      "side": 1,
+      "message": "It returns an I/O Error\n \nE/FileUtils(16432): Could not read from file /sys/devices/virtual/touchscreen/touchscreen_dev/gesture_ctrl\nE/FileUtils(16432): java.io.IOException: read failed: EIO (I/O error)\n\n\nwhich in turn leads to\n \nE/AndroidRuntime(25683): java.lang.RuntimeException: Unable to resume activity {com.android.settings/com.android.settings.SubSettings}: java.lang.NullPointerException: Attempt \nto invoke virtual method \u0027int java.lang.String.length()\u0027 on a null object reference",
+      "parentUuid": "7a8ec9b2_92ad1e34",
+      "revId": "865fe63a03c802307ea449d9ded7fc3233a97b26",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
