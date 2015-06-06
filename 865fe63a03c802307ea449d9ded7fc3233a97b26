@@ -16,6 +16,24 @@
       "revId": "865fe63a03c802307ea449d9ded7fc3233a97b26",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_d29086ef",
+        "filename": "cmhw/src/org/cyanogenmod/hardware/TapToWake.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2015-06-06T08:31:17Z",
+      "side": 1,
+      "message": "I did that first, but got a NPE without http://review.cyanogenmod.org/100272 and it wouldn\u0027t even let me open Display Settings.\n\nShould I just catch them both rather?",
+      "parentUuid": "7a8ec9b2_52a47656",
+      "revId": "865fe63a03c802307ea449d9ded7fc3233a97b26",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
