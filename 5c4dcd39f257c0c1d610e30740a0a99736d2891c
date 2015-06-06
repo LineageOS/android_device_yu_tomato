@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_3299aa6f",
+        "filename": "cmhw/src/org/cyanogenmod/hardware/TapToWake.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-06-06T06:06:10Z",
+      "side": 1,
+      "message": "May need to catch a NumberFormat exception if FileUtils gives you a null.",
+      "revId": "5c4dcd39f257c0c1d610e30740a0a99736d2891c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
