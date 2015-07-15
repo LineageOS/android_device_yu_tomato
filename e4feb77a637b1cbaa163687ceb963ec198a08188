@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_cf1b5d71",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13409
+      },
+      "writtenOn": "2015-07-15T05:21:20Z",
+      "side": 1,
+      "message": "This was 904D in common",
+      "revId": "e4feb77a637b1cbaa163687ceb963ec198a08188",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_6f2c5199",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 13409
+      },
+      "writtenOn": "2015-07-15T05:21:20Z",
+      "side": 1,
+      "message": "was 904E",
+      "revId": "e4feb77a637b1cbaa163687ceb963ec198a08188",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_ef3741e3",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13409
+      },
+      "writtenOn": "2015-07-15T05:21:20Z",
+      "side": 1,
+      "message": "9015?",
+      "revId": "e4feb77a637b1cbaa163687ceb963ec198a08188",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
