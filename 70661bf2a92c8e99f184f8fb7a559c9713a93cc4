@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df3967d1_253fa6d7",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 13409
+      },
+      "writtenOn": "2015-09-24T12:41:03Z",
+      "side": 1,
+      "message": "derp, missed this line was there.",
+      "revId": "70661bf2a92c8e99f184f8fb7a559c9713a93cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
