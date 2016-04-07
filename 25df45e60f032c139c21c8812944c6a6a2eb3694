@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_38a69cc3",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-04-07T16:57:18Z",
+      "side": 1,
+      "message": "Also, if this is a PRODUCT_COPY_FILES, you don\u0027t need to copy the path, you can just place it into the existing config/media directories.\n\nThis directive should also go in the section labeled \u0027Media\u0027 at line 103.",
+      "range": {
+        "startLine": 32,
+        "startChar": 18,
+        "endLine": 32,
+        "endChar": 66
+      },
+      "revId": "25df45e60f032c139c21c8812944c6a6a2eb3694",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
