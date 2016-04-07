@@ -22,6 +22,30 @@
       "revId": "25df45e60f032c139c21c8812944c6a6a2eb3694",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_b8692c26",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-04-07T17:51:54Z",
+      "side": 1,
+      "message": "If this is an overlay, is the product_copy even necessary?",
+      "parentUuid": "7faddb67_38a69cc3",
+      "range": {
+        "startLine": 32,
+        "startChar": 18,
+        "endLine": 32,
+        "endChar": 66
+      },
+      "revId": "25df45e60f032c139c21c8812944c6a6a2eb3694",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
