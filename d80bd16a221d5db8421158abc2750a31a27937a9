@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_438feb29",
+        "filename": "power/power-feature.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-05-05T11:13:02Z",
+      "side": 1,
+      "message": "Possibly a shorter and simpler tag?",
+      "revId": "d80bd16a221d5db8421158abc2750a31a27937a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_e3837703",
+        "filename": "power/power-feature.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-05-05T11:13:02Z",
+      "side": 1,
+      "message": "Why not just write it directly to the node, getting rid of tmp_str?",
+      "revId": "d80bd16a221d5db8421158abc2750a31a27937a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
