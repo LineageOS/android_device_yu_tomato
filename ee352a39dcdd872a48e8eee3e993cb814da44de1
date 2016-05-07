@@ -16,6 +16,24 @@
       "revId": "ee352a39dcdd872a48e8eee3e993cb814da44de1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_8d066986",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-05-07T04:01:17Z",
+      "side": 1,
+      "message": "I\u0027m not sure what provisions there are in bluedroid for this",
+      "parentUuid": "5faad753_8ce1959d",
+      "revId": "ee352a39dcdd872a48e8eee3e993cb814da44de1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
