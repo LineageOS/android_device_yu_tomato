@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_fe53c515",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-06-01T10:46:25Z",
+      "side": 0,
+      "message": "I removed dexopt because it doesn\u0027t seem like we can support it with our limited system space. Correct me if I\u0027m wrong.",
+      "revId": "db4b35cd9fef090588f6699f66d5948d0f5a845b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
