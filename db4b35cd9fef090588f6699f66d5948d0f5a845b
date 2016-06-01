@@ -16,6 +16,24 @@
       "revId": "db4b35cd9fef090588f6699f66d5948d0f5a845b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_9e5731cb",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-01T14:30:48Z",
+      "side": 0,
+      "message": "Yeah, tomato cannot dexopt at all, no space.",
+      "parentUuid": "5faad753_fe53c515",
+      "revId": "db4b35cd9fef090588f6699f66d5948d0f5a845b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
