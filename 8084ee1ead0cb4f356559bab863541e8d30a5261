@@ -34,6 +34,24 @@
       "revId": "8084ee1ead0cb4f356559bab863541e8d30a5261",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_17323f60",
+        "filename": "board/malloc.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-06-04T16:17:04Z",
+      "side": 1,
+      "message": "I\u0027m not sure, I think they were specified that way due to the camera libraries. I don\u0027t see why it would make a difference at this point though. I\u0027d rather not have this if possible.",
+      "parentUuid": "5faad753_777ff314",
+      "revId": "8084ee1ead0cb4f356559bab863541e8d30a5261",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
