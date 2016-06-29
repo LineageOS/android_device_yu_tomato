@@ -20,5 +20,8 @@ include device/yu/tomato/board/*.mk
 # Assertions
 TARGET_BOARD_INFO_FILE := device/yu/tomato/board-info.txt
 
+# Releasetools extension
+TARGET_RELEASETOOLS_EXTENSIONS := device/qcom/common
+
 # Inherit from proprietary files
 -include vendor/yu/tomato/BoardConfigVendor.mk
