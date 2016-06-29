@@ -59,5 +59,8 @@ endif
 \$(shell mkdir -p \$(PRODUCT_OUT)/system/vendor/lib64/egl && pushd \$(PRODUCT_OUT)/system/vendor/lib64 > /dev/null && ln -s egl/libEGL_adreno.so libEGL_adreno.so && popd > /dev/null)
 EOF
 
+# Append the calls to firmware images
+append_firmware_calls_to_makefiles
+
 # We are done!
 write_footers
