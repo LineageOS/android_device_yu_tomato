@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_ee0da590",
+        "filename": "cmhw/src/org/cyanogenmod/hardware/KeyDisabler.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-07-20T06:43:00Z",
+      "side": 1,
+      "message": "IMO, you shouldnt format this line if you wouldn\u0027t change it otherwise",
+      "revId": "a7e6446220c16256e108e4205112c35b5803a02a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
