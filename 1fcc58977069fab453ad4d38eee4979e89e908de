@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_b3285f86",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 13
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-07-28T05:41:31Z",
+      "side": 1,
+      "message": "I\u0027m still not sure whether this is needed. My main tester switched devices, so I can\u0027t test this anymore :(",
+      "revId": "1fcc58977069fab453ad4d38eee4979e89e908de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
