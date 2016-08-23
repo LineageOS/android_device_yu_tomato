@@ -16,6 +16,24 @@
       "revId": "db2dc367e8f3745450b193da8eb8d401b2e3face",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_b4ef1786",
+        "filename": "cmhw/src/org/cyanogenmod/hardware/KeyDisabler.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-08-23T11:13:11Z",
+      "side": 1,
+      "message": "Shall I just rename it to PATH?",
+      "parentUuid": "1fa4df85_34da47e9",
+      "revId": "db2dc367e8f3745450b193da8eb8d401b2e3face",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
