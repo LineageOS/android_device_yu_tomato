@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_ac21ecb6",
+        "filename": "init/init_tomato.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-09-04T10:17:19Z",
+      "side": 1,
+      "message": "extra ,",
+      "revId": "afcb22e5c3e55897c927bcea2d791577f692780f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
