@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_28039a11",
+        "filename": "cmhw/src/org/cyanogenmod/hardware/HighTouchSensitivity.java",
+        "patchSetId": 12
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-09-08T12:02:29Z",
+      "side": 1,
+      "message": "Argh I shouldn\u0027t have changed this file, the lines were ok. I had 80 char line wrapping enabled :/",
+      "revId": "ef1b3a5a8d09115058ab44bae10f12f927285d12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
