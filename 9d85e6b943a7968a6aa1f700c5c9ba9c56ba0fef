@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff2e2bb8_b3041d19",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-10-25T16:00:58Z",
+      "side": 1,
+      "message": "Line length ugh.",
+      "revId": "9d85e6b943a7968a6aa1f700c5c9ba9c56ba0fef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff2e2bb8_16ffb701",
+        "filename": "sepolicy/tee.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-10-25T16:00:58Z",
+      "side": 1,
+      "message": "Do you know what block file it\u0027s going for? This is really permissive.",
+      "range": {
+        "startLine": 1,
+        "startChar": 10,
+        "endLine": 1,
+        "endChar": 31
+      },
+      "revId": "9d85e6b943a7968a6aa1f700c5c9ba9c56ba0fef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
