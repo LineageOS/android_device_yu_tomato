@@ -25,6 +25,9 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
+on init
+    export LD_SHIM_LIBS /system/vendor/lib64/lib-imsdpl.so|libshim_boringssl.so
+
 on boot
     # change file owner for factory test
     chown system system /sys/devices/virtual/touchscreen/touchscreen_dev/firmware_version
