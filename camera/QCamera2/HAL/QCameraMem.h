@@ -197,6 +197,7 @@ public:
     virtual int getMatchBufIndex(const void *opaque, bool metadata) const;
     native_handle_t *getNativeHandle(uint32_t index, bool metadata = true);
     int closeNativeHandle(const void *data, bool metadata = true);
+    static int closeNativeHandle(const void *data);
     int getUsage(){return mUsage;};
     int getFormat(){return mFormat;};
     void setVideoInfo(int usage, cam_format_t format);
