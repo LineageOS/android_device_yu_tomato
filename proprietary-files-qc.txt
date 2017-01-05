@@ -122,10 +122,10 @@ vendor/lib64/librpmb.so
 vendor/lib64/libssd.so
 
 # GPS
--lib64/libloc_api_v02.so
--lib64/libloc_ds_api.so
--lib/libloc_api_v02.so
--lib/libloc_ds_api.so
+lib64/libloc_api_v02.so
+lib64/libloc_ds_api.so
+lib/libloc_api_v02.so
+lib/libloc_ds_api.so
 vendor/lib64/hw/flp.default.so
 vendor/lib64/libflp.so
 vendor/lib64/libgeofence.so
@@ -196,7 +196,7 @@ vendor/lib/libqmi.so
 vendor/lib/libsmemlog.so
 
 # Radio
--app/shutdownlistener/shutdownlistener.apk
+app/shutdownlistener/shutdownlistener.apk
 bin/netmgrd
 bin/qmuxd
 bin/radish
@@ -204,9 +204,9 @@ bin/rfs_access
 bin/rmt_storage
 etc/permissions/qcnvitems.xml
 etc/permissions/qcrilhook.xml
--framework/qcnvitems.jar
--framework/qcrilhook.jar
--priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+framework/qcnvitems.jar
+framework/qcrilhook.jar
+priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 vendor/lib64/libcneapiclient.so
 vendor/lib64/libconfigdb.so
 vendor/lib64/liblqe.so
@@ -227,12 +227,40 @@ vendor/lib64/libthermalioctl.so
 vendor/lib/libthermalclient.so
 
 # Time services
--app/TimeService/TimeService.apk
+app/TimeService/TimeService.apk
 bin/time_daemon
--vendor/lib64/libtime_genoff.so
+vendor/lib64/libtime_genoff.so
 vendor/lib64/libTimeService.so
--vendor/lib/libtime_genoff.so
+vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so
+bin/ims_rtp_daemon		
+ bin/imscmservice		
+ bin/imsqmidaemon		
+ etc/permissions/imscm.xml		
+ framework/imscmlibrary.jar		
+ vendor/lib64/lib-dplmedia.so		
+ vendor/lib64/lib-ims-rcscmjni.so		
+ vendor/lib64/lib-imsSDP.so		
+ vendor/lib64/lib-imscamera.so		
+ vendor/lib64/lib-imsdpl.so		
+ vendor/lib64/lib-imsqimf.so		
+ vendor/lib64/lib-imsrcs.so		
+ vendor/lib64/lib-imsrcscm.so		
+ vendor/lib64/lib-imsrcscmclient.so		
+ vendor/lib64/lib-imsrcscmservice.so		
+ vendor/lib64/lib-imss.so		
+ vendor/lib64/lib-imsvt.so		
+ vendor/lib64/lib-imsxml.so		
+ vendor/lib64/lib-rcsimssjni.so		
+ vendor/lib64/lib-rcsjni.so		
+ vendor/lib64/lib-rtpcommon.so		
+ vendor/lib64/lib-rtpcore.so		
+ vendor/lib64/lib-rtpdaemoninterface.so		
+ vendor/lib64/lib-rtpsl.so		
+ vendor/lib64/libimscamera_jni.so		
+ vendor/lib64/libimsmedia_jni.so		
+ vendor/lib64/libvoice-svc.so		
+ vendor/lib64/libvcel.so
 
 # Widevine
 vendor/lib/drm/libdrmwvmplugin.so|3bee766222895f524421eb996ca6a08bcf95f19f
