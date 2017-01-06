@@ -195,6 +195,8 @@
          carrier provisioning. If false: hard disabled. If true: then depends on carrier
          provisioning, availability etc -->
     <bool name="config_carrier_vt_available">true</bool>
+ <!-- Flag specifying whether VoLTE availability is based on provisioning -->
+<bool name="config_carrier_volte_provisioned">true</bool>
 
 
 </resources>
