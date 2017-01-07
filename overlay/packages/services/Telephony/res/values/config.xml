@@ -18,5 +18,6 @@
 
     <!-- Show enabled lte option for lte device -->
     <bool name="config_enabled_lte" translatable="false">true</bool>
-
+    <bool name="config_enhanced_4g_lte_mode_enable" translatable="false">true</bool>
+     
 </resources>
