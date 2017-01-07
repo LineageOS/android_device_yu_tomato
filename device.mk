@@ -42,3 +42,5 @@ persist.radio.VT_HYBRID_ENABLE=1 \
 persist.radio.VT_USE_MDM_TIME=0 \
 persist.radio.calls.on.ims=true \
 DEVICE_PROVISIONED=1
+
+AUDIO_FEATURE_ENABLED_MULTI_VOICE_SESSIONS := true
