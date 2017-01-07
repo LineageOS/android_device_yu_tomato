@@ -30,3 +30,15 @@ $(call inherit-product-if-exists, vendor/yu/tomato/tomato-vendor.mk)
 
  PRODUCT_PACKAGES += \
     IMSEnabler
+    
+PRODUCT_PROPERTY_OVERRIDES += \    
+service.qti.ims.enabled=1 \
+persist.volte_enalbed_by_hw=1 \
+net.lte.volte_call_capable=true \
+persist.ims.volte=true \
+persist.radio.ROTATION_ENABLE=1 \
+persist.radio.VT_ENABLE=1 \
+persist.radio.VT_HYBRID_ENABLE=1 \
+persist.radio.VT_USE_MDM_TIME=0 \
+persist.radio.calls.on.ims=true \
+DEVICE_PROVISIONED=1
