@@ -30,8 +30,8 @@ $(call inherit-product-if-exists, vendor/yu/tomato/tomato-vendor.mk)
 
  PRODUCT_PACKAGES += \
     IMSEnabler
-    
-PRODUCT_PROPERTY_OVERRIDES += \    
+
+PRODUCT_PROPERTY_OVERRIDES += \
 service.qti.ims.enabled=1 \
 persist.volte_enalbed_by_hw=1 \
 net.lte.volte_call_capable=true \
