@@ -232,9 +232,6 @@
      carrier provisioning. If false: hard disabled. If true: then depends on carrier
      provisioning, availability etc -->
 <bool name="config_carrier_wfc_ims_available">true</bool>
- 
-<bool name="config_carrier_vt_provisioned">true</bool>
-<bool name="config_device_wfc_ims_provisioned">true</bool>
 
 
  
