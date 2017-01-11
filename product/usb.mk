@@ -4,7 +4,7 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.usb.host.xml:system/etc/permissions/android.hardware.usb.host.xml
 
 # USB ID
-ADDITIONAL_DEFAULT_PROPERTIES += \
+PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.usb.id.midi=90BA \
     ro.usb.id.midi_adb=90BB \
     ro.usb.id.mtp=F003 \
