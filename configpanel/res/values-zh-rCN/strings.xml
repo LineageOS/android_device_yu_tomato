@@ -23,7 +23,7 @@
   <string name="touchscreen_flashlight_gesture_summary">画一个圈来切换手电筒</string>
   <string name="touchscreen_music_gesture_title">音乐</string>
   <string name="touchscreen_music_gesture_summary">使用手势控制音乐播放 \n
-    • 两个手指垂直滑动来播放或暂停\n
-    • 向左划切换到上一首\n
-    • 向右划切换到下一首</string>
+    • 向下滑动来播放/暂停\n
+    • 向左滑动切换到上一首\n
+    • 向右滑动切换到下一首</string>
 </resources>
