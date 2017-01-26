@@ -17,4 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Cameră</string>
+  <string name="touchscreen_camera_gesture_summary">Desenați un \'C\' pentru a activa camera</string>
+  <string name="touchscreen_flashlight_gesture_title">Lanternă</string>
+  <string name="touchscreen_flashlight_gesture_summary">Desenați un cerc pentru a deschide lanterna</string>
+  <string name="touchscreen_music_gesture_title">Muzică</string>
+  <string name="touchscreen_music_gesture_summary">Folosiți gesturi pentru a controla redarea muzicii \n
+    • Glisați în jos pentru a reda/opri\n
+    • Glisați stânga pentru melodia anterioară\n
+    • Glisați dreapta pentru melodia următoare</string>
 </resources>
