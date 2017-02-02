@@ -17,4 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Kamerayı etkinleştirmek için bir \"C\" çizin</string>
+  <string name="touchscreen_flashlight_gesture_title">El Feneri</string>
+  <string name="touchscreen_flashlight_gesture_summary">El feneri için daire çiz</string>
+  <string name="touchscreen_music_gesture_title">Müzik</string>
+  <string name="touchscreen_music_gesture_summary">Müziği kontrol etmek için hareketlerinizi kullanın\n
+    • Parçayı oynatmak/durdurmak için aşağı\n
+    • Önceki parçayı oynatmak için sola\n
+    • Sonraki parça için sağa kaydırın</string>
 </resources>
