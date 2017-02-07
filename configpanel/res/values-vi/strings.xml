@@ -17,4 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Máy ảnh</string>
+  <string name="touchscreen_camera_gesture_summary">Vẽ \"C\" để kích hoạt máy ảnh</string>
+  <string name="touchscreen_flashlight_gesture_title">Đèn pin</string>
+  <string name="touchscreen_flashlight_gesture_summary">Vẽ một vòng tròn để bật/tắt đèn pin</string>
+  <string name="touchscreen_music_gesture_title">Nhạc</string>
+  <string name="touchscreen_music_gesture_summary">Sử dụng các cử chỉ để điều khiển phát lại nhạc \n
+    • Vuốt xuống để phát/tạm dừng\n
+    • Vuốt sang trái cho bài trước đó\n
+    • Vuốt sang phải cho bài kế tiếp</string>
 </resources>
