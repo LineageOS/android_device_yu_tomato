@@ -17,4 +17,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Камера</string>
+  <string name="touchscreen_camera_gesture_summary">Намалюйте літеру «C», щоб увімкнути камеру</string>
+  <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
+  <string name="touchscreen_flashlight_gesture_summary">Намалюйте літеру «О» аби перемкнути ліхтарик</string>
+  <string name="touchscreen_music_gesture_title">Музика</string>
+  <string name="touchscreen_music_gesture_summary">Використовувати жести для керування музичним плеєром \n
+    • Провести вниз щоб відтворити/зупинити\n
+    • Провести вліво для відтворення попереднього треку\n
+    • Провести вправо  для відтворення наступного треку</string>
 </resources>
