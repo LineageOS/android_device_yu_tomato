@@ -79,7 +79,7 @@ public class ProximityCalibrateActivity extends Activity {
      * Setup native bits
      */
     static {
-        System.load("libjni_proximityCalibrate.so");
+        System.loadLibrary("jni_proximityCalibrate");
     }
 
     private static native boolean native_calibrateProximity(int[] parameters);
