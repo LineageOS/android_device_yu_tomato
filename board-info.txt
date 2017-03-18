@@ -1,2 +1,1 @@
 require version-trustzone=TZ.BF.3.0.R2-00034
-require version-baseband=1.0.2.C1-00096
