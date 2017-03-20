@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2585a7_cd7369e6",
+        "filename": "board-info.txt",
+        "patchSetId": 18
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 17084
+      },
+      "writtenOn": "2017-03-20T15:19:45Z",
+      "side": 1,
+      "message": "require version-baseband\u003d1.0.2.C1-00196",
+      "revId": "2537afa768b9afff7ddf8d937ae7a0903c819963",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
