@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_c3ee6522",
+        "filename": "rootdir/etc/fstab.qcom",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-04-09T11:49:58Z",
+      "side": 1,
+      "message": "Match indentation with other lines",
+      "revId": "22a12891588d22dd651ec453784cf731a8955d63",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
