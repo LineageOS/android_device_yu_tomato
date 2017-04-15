@@ -253,7 +253,7 @@ vendor/lib/libsmemlog.so
 
 # Radio
 -app/shutdownlistener/shutdownlistener.apk
-bin/netmgrd|808c0a6e29ab202f252c103ce1d9890e7934a699
+bin/netmgrd
 bin/qmuxd
 bin/radish
 bin/rmt_storage
