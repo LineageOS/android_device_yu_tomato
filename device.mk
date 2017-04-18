@@ -26,4 +26,5 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model ro.sf.lcd_density
 # Include package config fragments
 include $(LOCAL_PATH)/product/*.mk
 
-$(call inherit-product-if-exists, vendor/yu/tomato/tomato-vendor.mk)
+# Call the proprietary setup
+$(call inherit-product, vendor/yu/tomato/tomato-vendor.mk)
