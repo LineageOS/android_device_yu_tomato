@@ -1,0 +1,2 @@
+# IMS
+TARGET_USES_IMS := true

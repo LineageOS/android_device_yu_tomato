@@ -12,11 +12,8 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
--->
+ -->
 
 <resources>
-
-    <!-- Show enabled lte option for lte device -->
-    <bool name="config_enabled_lte" translatable="true">true</bool>
-
+    <string name="app_name">IMS Enabler</string>
 </resources>
