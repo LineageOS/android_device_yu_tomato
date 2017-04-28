@@ -18,6 +18,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Gesture shortcuts -->
   <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Rita ett \"C\" för att aktivera kameran</string>
   <string name="touchscreen_flashlight_gesture_title">Ficklampa</string>
+  <string name="touchscreen_flashlight_gesture_summary">Rita en cirkel för att aktivera lampan</string>
   <string name="touchscreen_music_gesture_title">Musik</string>
 </resources>

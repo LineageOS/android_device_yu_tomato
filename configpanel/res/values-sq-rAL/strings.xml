@@ -17,4 +17,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Vizato një \"C\" për të aktivizuar kamerën</string>
+  <string name="touchscreen_flashlight_gesture_title">Elektriku i dorës</string>
+  <string name="touchscreen_flashlight_gesture_summary">Vizato një rreth për të ndezur elektrikun e dorës</string>
+  <string name="touchscreen_music_gesture_title">Muzika</string>
+  <string name="touchscreen_music_gesture_summary">Përdor gjeste për të kontrolluar muzikën \n     • Rrëshqit gishtin poshtë për të nisur/ndaluar këngën\n     • Rrëshqit gishtin majtas për të vajtur tek kënga e mëparshme\n     • Rrëshqit gishtin djathtas për të vajtur tek kënga e radhes</string>
 </resources>
