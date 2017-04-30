@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_f5a93625",
+        "filename": "product/qcom-radio.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 3962
+      },
+      "writtenOn": "2017-04-30T12:43:48Z",
+      "side": 1,
+      "message": "No. We don\u0027t set this anymore unless your device is actually CDMA",
+      "revId": "cf22d9c96a9d9a1267405c18b5ba1d1571b0a5df",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
