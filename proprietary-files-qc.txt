@@ -155,13 +155,18 @@ vendor/lib/libwms.so|9357a5a48575403e81c873c36b49d9e1fbf13fb9
 vendor/lib/libwqe.so|0f1f1160968f1b77b184341919428d133bf708f3
 vendor/lib/libxml.so|0a31f34490459b97a2984b8d0e6f033f7639ae29
 
-# DRM
-bin/qseecomd
-vendor/lib64/libdrmfs.so
-vendor/lib64/libdrmtime.so
-vendor/lib64/libQSEEComAPI.so
-vendor/lib64/librpmb.so
-vendor/lib64/libssd.so
+# DRM - from kipper
+bin/qseecomd|4ed3a9359067ac9a2d053126845c70269a8911b6
+vendor/lib64/lib-sec-disp.so|26fcf87e775498125415428c68208b91ddb41a4e
+vendor/lib64/libdrmfs.so|eb296e141d540b3ce53b79d1cf65365704914840
+vendor/lib64/libdrmtime.so|7473d9ce55ffca308eef83d7c3b1562c3b7adbee
+vendor/lib64/libQSEEComAPI.so|20d5a7ee87a26330be174eeb57b1fbd6f5f1f1e6
+vendor/lib64/librpmb.so|3b997aa65fe0dfbdca73cf6b2fc881fb54b3bfa2
+vendor/lib64/libsecureui.so|9b384a585313d739f8f25e34efd944db962ac0f5
+vendor/lib64/libsecureui_svcsock.so|8a27b9693bb5f7e7acc7294bfd046c720074011b
+vendor/lib64/libSecureUILib.so|62a723c5aabc264f653cb150e61ee4aff04e4fce
+vendor/lib64/libssd.so|b9b74375796f931355c54e99dc946a6f1d025b02
+vendor/lib64/libStDrvInt.so|8e7eab1f2d93c38edcf9a932cef2841969d9ef9c
 
 # GPS - from kipper
 -lib64/libloc_api_v02.so|bdd3a92246d9a6a42b928201835f2d767cde1eff
