@@ -112,13 +112,18 @@ vendor/lib/libmmcamera_imx135_cp8675.so
 vendor/lib/libmmcamera_imx214_cp8675.so
 vendor/lib/libmmcamera_ov5648_cp8675.so
 
-# DRM
-bin/qseecomd
-vendor/lib64/libdrmfs.so
-vendor/lib64/libdrmtime.so
-vendor/lib64/libQSEEComAPI.so
-vendor/lib64/librpmb.so
-vendor/lib64/libssd.so
+# DRM - from kipper
+bin/qseecomd|32f84827b28dd3603ac8b863adee16998c92cc3e
+vendor/lib64/lib-sec-disp.so|26fcf87e775498125415428c68208b91ddb41a4e
+vendor/lib64/libdrmfs.so|645998dfcb0d204ef7eb5a2f7ccd96d71eb045be
+vendor/lib64/libdrmtime.so|71b44bd96e194b43b7c6e50a97eb5efd5f5f95e4
+vendor/lib64/libQSEEComAPI.so|5ec09d3085cc6a7157ed094d677bbfd1479fbac4
+vendor/lib64/librpmb.so|25bfd9f541db45756cf0b03bcc8284a90408ff18
+vendor/lib64/libsecureui.so|9b384a585313d739f8f25e34efd944db962ac0f5
+vendor/lib64/libsecureui_svcsock.so|8a27b9693bb5f7e7acc7294bfd046c720074011b
+vendor/lib64/libSecureUILib.so|62a723c5aabc264f653cb150e61ee4aff04e4fce
+vendor/lib64/libssd.so|4e1ca3d1f0dc7deaa0fd58e1dc6407d8cd020852
+vendor/lib64/libStDrvInt.so|8e7eab1f2d93c38edcf9a932cef2841969d9ef9c
 
 # GPS - from kipper
 -lib64/libloc_api_v02.so|bdd3a92246d9a6a42b928201835f2d767cde1eff
