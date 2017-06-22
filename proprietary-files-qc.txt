@@ -209,11 +209,14 @@ vendor/bin/perfd
 vendor/lib64/libqti-perfd-client.so
 vendor/lib/libqti-perfd-client.so
 
-# Postprocessing
-bin/mm-pp-daemon
-vendor/lib64/libdisp-aba.so
-vendor/lib64/libmm-abl.so
-vendor/lib64/libmm-abl-oem.so
+# Postprocessing - from kipper
+bin/mm-pp-daemon|c128b7a5c3f04282e5c6baff07abf79cc6689b34
+etc/permissions/com.qti.snapdragon.sdk.display.xml|c7379e4fea71c2600f34b897cee760930ab0ce8b
+framework/com.qti.snapdragon.sdk.display.jar|80666d2527882115cac8a1661f698a3ce289cba7
+-app/colorservice/colorservice.apk|70e389568640118e0df26302834a1f9cf5510dec
+vendor/lib64/libdisp-aba.so|863c28e2df51bfd718213fc4fe8936427d1c1978
+vendor/lib64/libmm-abl.so|080c41038facd782f59432099ba40b900e729550
+vendor/lib64/libmm-abl-oem.so|444eab8c7e2468ac757f493bdf5fa6748af4aa00
 
 # Qualcomm framework - from kipper
 bin/irsc_util|930544024d17c8ddd89d0931259e32face034c34
