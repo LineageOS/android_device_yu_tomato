@@ -302,6 +302,13 @@ vendor/lib/libOmxAacDec.so|2fddeef1530f7b0395ed13f9179355a459514723
 vendor/lib/libOmxEvrcDec.so|f5f8b7702f0e6858ff473d740be0bcf886abaa9a
 vendor/lib/libOmxQcelp13Dec.so|2766d69b1797441ba2bdc9ab0928c22d1ecc99a9
 
+# Network - from kipper
+-priv-app/QtiTetherService/QtiTetherService.apk|25b4581ae8b673ae85e62e1b079c24e8e55f4e2f
+vendor/lib64/libconnctrl.so|2e3b854bf87848c4a362ccfbcdb64c6c81fbae95
+vendor/lib64/libQtiTether.so|4b81e220c30226b572ab3903b1df35c2189c4cc8
+vendor/lib/libconnctrl.so|8fb006f6f60ef8c490a81f915ddf16d2900478c3
+vendor/lib/libQtiTether.so|22f0981276af8a95bfa2c9f1c39c1d1510d095ed
+
 # Perf
 bin/msm_irqbalance
 vendor/bin/perfd
