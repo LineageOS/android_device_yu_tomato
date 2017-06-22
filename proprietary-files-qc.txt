@@ -196,12 +196,15 @@ vendor/lib/libscale.so|972cbd87794b4ce0a5c23db946acbafd4cd6d073
 etc/firmware/a420_pfp.fw
 etc/firmware/a420_pm4.fw
 
-# Media
-vendor/lib/libI420colorconvert.so
-vendor/lib/libmm-color-convertor.so
-vendor/lib/libOmxAacDec.so
-vendor/lib/libOmxEvrcDec.so
-vendor/lib/libOmxQcelp13Dec.so
+# Media - from kipper
+vendor/lib64/libmmosal.so|59744291e539c5d218ef6231fe548b039b430b70
+vendor/lib64/libOmxAacDec.so|f9e53187b93e6cef06e42b34e512f42d16827cb0
+vendor/lib/libI420colorconvert.so|6f41a248acb5546874588ddcd4b940a95583515e
+vendor/lib/libmm-color-convertor.so|62e4cd5fefb6bd498b10256fd3dcb990197405f6
+vendor/lib/libmmosal.so|e72ef268ce23f506c56935f23cab820c5a6b2d8b
+vendor/lib/libOmxAacDec.so|c4161397293f5bed3e991edc0055d5b258aba4cd
+vendor/lib/libOmxEvrcDec.so|b4ff4380a7e0335372d926663c8f9981ad615115
+vendor/lib/libOmxQcelp13Dec.so|b4110e3e9a959b4d1a5e0f42a31efb2d8fd0bf0c
 
 # Perf
 bin/msm_irqbalance
