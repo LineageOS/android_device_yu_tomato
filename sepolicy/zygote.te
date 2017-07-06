@@ -1,1 +1,1 @@
-allow zygote baseband_prop:file read;
+allow zygote baseband_prop:file rw_file_perms;
