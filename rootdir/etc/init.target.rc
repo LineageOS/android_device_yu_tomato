@@ -51,3 +51,12 @@ service_redefine config_bt_addr /system/bin/btnvtool -b /system/bin/yl_btmac
     user bluetooth
     group bluetooth radio
     oneshot
+
+service baseband-sh /system/bin/sh /system/etc/set_baseband.sh
+    class late_start
+    user root
+    oneshot
+    disabled
+
+on property:gsm.version.baseband=""
+    start baseband-sh
