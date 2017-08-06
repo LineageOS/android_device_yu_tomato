@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "aea941a6_4370aee7",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-08-06T16:19:46Z",
+      "side": 1,
+      "message": "Do we actually know if this does anything?",
+      "range": {
+        "startLine": 221,
+        "startChar": 1,
+        "endLine": 221,
+        "endChar": 34
+      },
+      "revId": "18d2c70ab4306a539af378a816bcc59c0d3f7c97",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
