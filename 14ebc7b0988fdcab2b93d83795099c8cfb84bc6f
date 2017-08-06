@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7534ef86_e4d65b69",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-08-06T16:16:56Z",
+      "side": 1,
+      "message": "These are useless",
+      "range": {
+        "startLine": 205,
+        "startChar": 0,
+        "endLine": 206,
+        "endChar": 69
+      },
+      "revId": "14ebc7b0988fdcab2b93d83795099c8cfb84bc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "59ee658c_be04a123",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-08-06T16:16:56Z",
+      "side": 1,
+      "message": "This isn\u0027t used by any blob",
+      "range": {
+        "startLine": 209,
+        "startChar": 0,
+        "endLine": 209,
+        "endChar": 64
+      },
+      "revId": "14ebc7b0988fdcab2b93d83795099c8cfb84bc6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
