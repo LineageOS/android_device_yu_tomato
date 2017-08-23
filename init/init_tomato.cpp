@@ -30,12 +30,14 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "vendor_init.h"
-#include "property_service.h"
-#include "log.h"
-#include "util.h"
+#include <android-base/properties.h>
 
+#include "property_service.h"
+#include "vendor_init.h"
+#include "util.h"
 #include "init_msm8916.h"
+
+using android::base::GetProperty;
 
 static int display_density = 320;
 
@@ -53,7 +55,7 @@ void init_target_properties()
 {
     std::string device;
 
-    device = property_get("ro.cm.device");
+    device = GetProperty("ro.lineage.device", "");
     if (device != "tomato")
         return;
 
