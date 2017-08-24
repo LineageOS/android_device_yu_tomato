@@ -1,1 +1,0 @@
-allow zygote baseband_prop:file read;
