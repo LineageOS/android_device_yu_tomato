@@ -253,7 +253,9 @@ etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
 -framework/qcrilhook.jar|4ac8f925c1e76da54279867a14c32e5bc868b6df
 lib64/librilqmiservices.so|f2e5672219ea59c479f2389c70ac0907a7a78265
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|8ca1e2e05596914c57d3a4ce0f367d810da7bb7f
-vendor/lib64/libcneapiclient.so|042ad03479f951ff8246db48eaa7fa156bada4e8
+vendor/lib64/com.quicinc.cne.api@1.0.so|503825cc8a3c0d422e16e04b398d2c1924e518ca
+vendor/lib64/com.quicinc.cne.constants@1.0.so|a60fde6f9328635bf43bb7008dd9517e4e749e8b
+vendor/lib64/libcneapiclient.so|33e7465996749a8823ac03e34a94e3112c88dda4
 vendor/lib64/libconfigdb.so|672cef86baab5ed9e4683c527f762c8accdff493
 vendor/lib64/liblqe.so|cb61ddbbd43e46ae56ef5f98c47b631d58808326
 vendor/lib64/libmdmdetect.so|67760bce9c33e844924cdef4ce7e6bcc2ccee46d
@@ -263,7 +265,7 @@ vendor/lib64/libril-qc-ltedirectdisc.so|a3048c2656f5f6eaf1149d2e262f8abf35296975
 vendor/lib64/libril-qc-qmi-1.so|a8ebaeab579bcac5fcde662e8f321279e3d30dfd
 vendor/lib64/libril-qc-radioconfig.so|c969caddfb5d59582a892c34671c604b3dfed802
 vendor/lib64/libril-qcril-hook-oem.so|f651e4a0b6a5e0a38660dd8c2a5ded71ae14efb9
-vendor/lib64/libsettings.so|619d754049a659313511950244e67cca0075cd35
+vendor/lib64/libsettings.so|3e459839d90a27d2eb23a3c9d030f46a5c4bfaf1
 vendor/lib64/libsystem_health_mon.so|71adfec8a25dae86d5ad9bc54e9a88ea4fcc2b35
 vendor/lib64/libxml.so|26d53a36db5ea231729a85f385638afff4a2fe60
 vendor/lib/libmdmdetect.so|2c57282fce7367471e44a35305ace773ae89fd30
