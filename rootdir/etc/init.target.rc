@@ -31,14 +31,6 @@ on boot
     chown system system /sys/devices/virtual/touchscreen/touchscreen_dev/firmware_update
     chown system system /sys/devices/virtual/touchscreen/touchscreen_dev/calibrate
 
-    # Notification LED
-    chown system system /sys/class/leds/red/blink
-    chown system system /sys/class/leds/green/blink
-    chown system system /sys/class/leds/blue/blink
-    chown system system /sys/class/leds/red/led_time
-    chown system system /sys/class/leds/green/led_time
-    chown system system /sys/class/leds/blue/led_time
-
     # Touchscreen
     chown system system /sys/devices/virtual/touchscreen/touchscreen_dev/gesture_ctrl
     chmod 0660 /sys/devices/virtual/touchscreen/touchscreen_dev/gesture_ctrl
