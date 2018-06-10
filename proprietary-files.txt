@@ -244,7 +244,7 @@ vendor/lib/libsmemlog.so|c632a70764ee1d6416ce1758f4d10cd6983d204d
 # Radio - from kipper
 -app/shutdownlistener/shutdownlistener.apk:vendor/app/shutdownlistener/shutdownlistener.apk|61bf2ac0e7c312036423f2c77a310aa310d06f7b
 bin/netmgrd:vendor/bin/netmgrd|c7ec4849b808f64e6414b2180ed16122f757d963
-bin/qmuxd:vendor/bin/qmuxd|d36ad140da7833c0b82ecb28262360d3e974cb0d
+bin/qmuxd:vendor/bin/qmuxd|e1e334eea46eebba048d8e3399166604ccba7a00
 bin/radish:vendor/bin/radish|9cb3017bc4ece05809662d76f9141044b1daee6c
 bin/rmt_storage:vendor/bin/rmt_storage|ddec53a336abfe30f96d0eaa83565936166c571f
 etc/permissions/qcnvitems.xml:vendor/etc/permissions/qcnvitems.xml|dd47edbccc24a5c254dca18250c0136ecab4f0d6
