@@ -32,14 +32,12 @@
 
 #include "vendor_init.h"
 #include "property_service.h"
-#include "log.h"
 #include "util.h"
 
 #include <android-base/properties.h>
 
 #include "init_msm8916.h"
 
-using android::base::GetProperty;
 using android::init::import_kernel_cmdline;
 using android::init::property_set;
 
@@ -57,12 +55,6 @@ static void import_cmdline(const std::string& key,
 
 void init_target_properties()
 {
-    std::string device;
-
-    device = GetProperty("ro.lineage.device","");
-    if (device != "tomato")
-        return;
-
     char density[5];
     import_kernel_cmdline(0, import_cmdline);
     snprintf(density, sizeof(density), "%d", display_density);
