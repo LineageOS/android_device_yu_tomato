@@ -1,1 +1,1 @@
-allow zygote baseband_prop:file read;
+get_prop(zygote, baseband_prop)
