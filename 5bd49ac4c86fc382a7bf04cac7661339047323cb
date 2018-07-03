@@ -16,6 +16,24 @@
       "revId": "5bd49ac4c86fc382a7bf04cac7661339047323cb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a45c3f6f_ff4673d1",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2018-07-03T20:51:10Z",
+      "side": 1,
+      "message": "It\u0027s already in device/qcom/sepolicy/legacy-common",
+      "parentUuid": "7e591f4b_a0d99487",
+      "revId": "5bd49ac4c86fc382a7bf04cac7661339047323cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
