@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7e591f4b_a0d99487",
+        "filename": "sepolicy/bluetooth_loader.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-07-03T20:46:01Z",
+      "side": 1,
+      "message": "set_prop(bluetooth_loader, bluetooth_prop)",
+      "revId": "5bd49ac4c86fc382a7bf04cac7661339047323cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
