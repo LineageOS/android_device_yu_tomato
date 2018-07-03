@@ -21,6 +21,7 @@
 #define UNUSED __attribute__((unused))
 
 #include <cutils/log.h>
+#include <cutils/properties.h>
 #include <sys/types.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -45,8 +46,7 @@ main(UNUSED int argc, UNUSED char **argv)
         return rc;
     }
 
-    printf("%02hhx:%02hhx:%02hhx:%02hhx:%02hhx:%02hhx",
-            bt_mac[0], bt_mac[1], bt_mac[2], bt_mac[3], bt_mac[4], bt_mac[5]);
+    property_set("ro.boot.btmacaddr", bt_mac);
 
     return 0;
 }
