@@ -72,8 +72,7 @@ PRODUCT_COPY_FILES += \
 # Init scripts
 PRODUCT_PACKAGES += \
     fstab.qcom \
-    init.target.rc \
-    set_baseband.sh
+    init.target.rc
 
 # Keylayout
 PRODUCT_COPY_FILES += \

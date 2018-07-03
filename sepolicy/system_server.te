@@ -1,4 +1,2 @@
 allow system_server touchpanel_sysfs:dir search;
 allow system_server touchpanel_sysfs:file rw_file_perms;
-
-get_prop(system_server, baseband_prop)
